@@ -7,9 +7,9 @@ Brute Force: Test all 26 possible shifts to decode a message
 Auto Crack: Guess the encryption key using letter frequency analysis
 Input Validation: Handle invalid choices and keys
 # Technologies used 
-Python 3
-Collections (Counter)
-String module
+ Python 3
+ Collections (Counter)
+ String module
 # How to Run
 1. Clone this repository
 git clone https://github.com/minahilfatima246-afk/cipher.py/edit/main/README.md
@@ -36,5 +36,3 @@ The Caesar Cipher Tool is a basic educational encryption technique and should no
 # Author
 Minahil Fatima
 A student exploring Python Programming, cybersecurity, and technology
-
-The Caesar Cipher is a ba
